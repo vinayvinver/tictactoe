@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vinayvinver/tictactoe/static/css/main.1c69cb1a.chunk.css",
+    "main.js": "/vinayvinver/tictactoe/static/js/main.1684ac90.chunk.js",
+    "main.js.map": "/vinayvinver/tictactoe/static/js/main.1684ac90.chunk.js.map",
+    "runtime-main.js": "/vinayvinver/tictactoe/static/js/runtime-main.3e6bd4ed.js",
+    "runtime-main.js.map": "/vinayvinver/tictactoe/static/js/runtime-main.3e6bd4ed.js.map",
+    "static/css/2.603c65f1.chunk.css": "/vinayvinver/tictactoe/static/css/2.603c65f1.chunk.css",
+    "static/js/2.c5ca3117.chunk.js": "/vinayvinver/tictactoe/static/js/2.c5ca3117.chunk.js",
+    "static/js/2.c5ca3117.chunk.js.map": "/vinayvinver/tictactoe/static/js/2.c5ca3117.chunk.js.map",
+    "static/js/3.61467938.chunk.js": "/vinayvinver/tictactoe/static/js/3.61467938.chunk.js",
+    "static/js/3.61467938.chunk.js.map": "/vinayvinver/tictactoe/static/js/3.61467938.chunk.js.map",
+    "index.html": "/vinayvinver/tictactoe/index.html",
+    "static/css/2.603c65f1.chunk.css.map": "/vinayvinver/tictactoe/static/css/2.603c65f1.chunk.css.map",
+    "static/css/main.1c69cb1a.chunk.css.map": "/vinayvinver/tictactoe/static/css/main.1c69cb1a.chunk.css.map",
+    "static/js/2.c5ca3117.chunk.js.LICENSE.txt": "/vinayvinver/tictactoe/static/js/2.c5ca3117.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vinayvinver/tictactoe/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e6bd4ed.js",
+    "static/css/2.603c65f1.chunk.css",
+    "static/js/2.c5ca3117.chunk.js",
+    "static/css/main.1c69cb1a.chunk.css",
+    "static/js/main.1684ac90.chunk.js"
+  ]
+}
